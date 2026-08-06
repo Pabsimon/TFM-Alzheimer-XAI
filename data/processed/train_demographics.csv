@@ -1,0 +1,940 @@
+subject_id,image_filename,label,gender,age,mmse,nwbv,etiv,asf
+OAS1_0426_MR1,OAS1_0426_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.791,1316.0,1.33
+OAS1_0426_MR1,OAS1_0426_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.791,1316.0,1.33
+OAS1_0426_MR1,OAS1_0426_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.791,1316.0,1.33
+OAS1_0227_MR1,OAS1_0227_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.777,1288.0,1.36
+OAS1_0227_MR1,OAS1_0227_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.777,1288.0,1.36
+OAS1_0227_MR1,OAS1_0227_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.777,1288.0,1.36
+OAS1_0237_MR1,OAS1_0237_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,27.0,0.764,1322.0,1.33
+OAS1_0237_MR1,OAS1_0237_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,27.0,0.764,1322.0,1.33
+OAS1_0237_MR1,OAS1_0237_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,27.0,0.764,1322.0,1.33
+OAS1_0039_MR1,OAS1_0039_MR1_mpr_n3_anon_sbj_111_s0.png,Very Mild,0,,29.0,0.772,1463.0,1.2
+OAS1_0039_MR1,OAS1_0039_MR1_mpr_n3_anon_sbj_111_s1.png,Very Mild,0,,29.0,0.772,1463.0,1.2
+OAS1_0039_MR1,OAS1_0039_MR1_mpr_n3_anon_sbj_111_s2.png,Very Mild,0,,29.0,0.772,1463.0,1.2
+OAS1_0074_MR1,OAS1_0074_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.847,1547.0,1.13
+OAS1_0074_MR1,OAS1_0074_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.847,1547.0,1.13
+OAS1_0074_MR1,OAS1_0074_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.847,1547.0,1.13
+OAS1_0063_MR1,OAS1_0063_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.818,1675.0,1.05
+OAS1_0063_MR1,OAS1_0063_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.818,1675.0,1.05
+OAS1_0063_MR1,OAS1_0063_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.818,1675.0,1.05
+OAS1_0173_MR1,OAS1_0173_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.829,1475.0,1.19
+OAS1_0173_MR1,OAS1_0173_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.829,1475.0,1.19
+OAS1_0173_MR1,OAS1_0173_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.829,1475.0,1.19
+OAS1_0084_MR1,OAS1_0084_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,27.0,0.727,1453.0,1.21
+OAS1_0084_MR1,OAS1_0084_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,27.0,0.727,1453.0,1.21
+OAS1_0084_MR1,OAS1_0084_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,27.0,0.727,1453.0,1.21
+OAS1_0383_MR1,OAS1_0383_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.746,1590.0,1.1
+OAS1_0383_MR1,OAS1_0383_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.746,1590.0,1.1
+OAS1_0383_MR1,OAS1_0383_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.746,1590.0,1.1
+OAS1_0326_MR1,OAS1_0326_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.7,1272.0,1.38
+OAS1_0326_MR1,OAS1_0326_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.7,1272.0,1.38
+OAS1_0326_MR1,OAS1_0326_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.7,1272.0,1.38
+OAS1_0156_MR1,OAS1_0156_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.834,1591.0,1.1
+OAS1_0156_MR1,OAS1_0156_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.834,1591.0,1.1
+OAS1_0156_MR1,OAS1_0156_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.834,1591.0,1.1
+OAS1_0301_MR1,OAS1_0301_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,28.0,0.761,1495.0,1.17
+OAS1_0301_MR1,OAS1_0301_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,28.0,0.761,1495.0,1.17
+OAS1_0301_MR1,OAS1_0301_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,28.0,0.761,1495.0,1.17
+OAS1_0362_MR1,OAS1_0362_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,14.0,0.716,1439.0,1.22
+OAS1_0362_MR1,OAS1_0362_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,14.0,0.716,1439.0,1.22
+OAS1_0362_MR1,OAS1_0362_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,14.0,0.716,1439.0,1.22
+OAS1_0386_MR1,OAS1_0386_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.838,1490.0,1.18
+OAS1_0386_MR1,OAS1_0386_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.838,1490.0,1.18
+OAS1_0386_MR1,OAS1_0386_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.838,1490.0,1.18
+OAS1_0310_MR1,OAS1_0310_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.863,1388.0,1.26
+OAS1_0310_MR1,OAS1_0310_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.863,1388.0,1.26
+OAS1_0310_MR1,OAS1_0310_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.863,1388.0,1.26
+OAS1_0269_MR1,OAS1_0269_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,21.0,0.683,1489.0,1.18
+OAS1_0269_MR1,OAS1_0269_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,21.0,0.683,1489.0,1.18
+OAS1_0269_MR1,OAS1_0269_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,21.0,0.683,1489.0,1.18
+OAS1_0234_MR1,OAS1_0234_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.771,1534.0,1.14
+OAS1_0234_MR1,OAS1_0234_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.771,1534.0,1.14
+OAS1_0234_MR1,OAS1_0234_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.771,1534.0,1.14
+OAS1_0094_MR1,OAS1_0094_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,30.0,0.772,1447.0,1.21
+OAS1_0094_MR1,OAS1_0094_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,30.0,0.772,1447.0,1.21
+OAS1_0094_MR1,OAS1_0094_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,30.0,0.772,1447.0,1.21
+OAS1_0065_MR1,OAS1_0065_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,25.0,0.645,1301.0,1.35
+OAS1_0065_MR1,OAS1_0065_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,25.0,0.645,1301.0,1.35
+OAS1_0065_MR1,OAS1_0065_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,25.0,0.645,1301.0,1.35
+OAS1_0123_MR1,OAS1_0123_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,24.0,0.797,1282.0,1.37
+OAS1_0123_MR1,OAS1_0123_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,24.0,0.797,1282.0,1.37
+OAS1_0123_MR1,OAS1_0123_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,24.0,0.797,1282.0,1.37
+OAS1_0109_MR1,OAS1_0109_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.813,1313.0,1.34
+OAS1_0109_MR1,OAS1_0109_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.813,1313.0,1.34
+OAS1_0109_MR1,OAS1_0109_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.813,1313.0,1.34
+OAS1_0009_MR1,OAS1_0009_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.843,1505.0,1.17
+OAS1_0009_MR1,OAS1_0009_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.843,1505.0,1.17
+OAS1_0009_MR1,OAS1_0009_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.843,1505.0,1.17
+OAS1_0305_MR1,OAS1_0305_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.85,1454.0,1.21
+OAS1_0305_MR1,OAS1_0305_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.85,1454.0,1.21
+OAS1_0305_MR1,OAS1_0305_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.85,1454.0,1.21
+OAS1_0086_MR1,OAS1_0086_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.835,1311.0,1.34
+OAS1_0086_MR1,OAS1_0086_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.835,1311.0,1.34
+OAS1_0086_MR1,OAS1_0086_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.835,1311.0,1.34
+OAS1_0244_MR1,OAS1_0244_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.737,1341.0,1.31
+OAS1_0244_MR1,OAS1_0244_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.737,1341.0,1.31
+OAS1_0244_MR1,OAS1_0244_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.737,1341.0,1.31
+OAS1_0249_MR1,OAS1_0249_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.871,1217.0,1.44
+OAS1_0249_MR1,OAS1_0249_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.871,1217.0,1.44
+OAS1_0249_MR1,OAS1_0249_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.871,1217.0,1.44
+OAS1_0294_MR1,OAS1_0294_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.841,1439.0,1.22
+OAS1_0294_MR1,OAS1_0294_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.841,1439.0,1.22
+OAS1_0294_MR1,OAS1_0294_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.841,1439.0,1.22
+OAS1_0177_MR1,OAS1_0177_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.838,1494.0,1.17
+OAS1_0177_MR1,OAS1_0177_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.838,1494.0,1.17
+OAS1_0177_MR1,OAS1_0177_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.838,1494.0,1.17
+OAS1_0341_MR1,OAS1_0341_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.772,1479.0,1.19
+OAS1_0341_MR1,OAS1_0341_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.772,1479.0,1.19
+OAS1_0341_MR1,OAS1_0341_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.772,1479.0,1.19
+OAS1_0281_MR1,OAS1_0281_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.835,1538.0,1.14
+OAS1_0281_MR1,OAS1_0281_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.835,1538.0,1.14
+OAS1_0281_MR1,OAS1_0281_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.835,1538.0,1.14
+OAS1_0115_MR1,OAS1_0115_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,26.0,0.726,1911.0,0.92
+OAS1_0115_MR1,OAS1_0115_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,26.0,0.726,1911.0,0.92
+OAS1_0115_MR1,OAS1_0115_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,26.0,0.726,1911.0,0.92
+OAS1_0199_MR1,OAS1_0199_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.784,1601.0,1.1
+OAS1_0199_MR1,OAS1_0199_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.784,1601.0,1.1
+OAS1_0199_MR1,OAS1_0199_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.784,1601.0,1.1
+OAS1_0428_MR1,OAS1_0428_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,28.0,0.751,1500.0,1.17
+OAS1_0428_MR1,OAS1_0428_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,28.0,0.751,1500.0,1.17
+OAS1_0428_MR1,OAS1_0428_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,28.0,0.751,1500.0,1.17
+OAS1_0224_MR1,OAS1_0224_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.852,1378.0,1.27
+OAS1_0224_MR1,OAS1_0224_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.852,1378.0,1.27
+OAS1_0224_MR1,OAS1_0224_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.852,1378.0,1.27
+OAS1_0345_MR1,OAS1_0345_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.831,1389.0,1.26
+OAS1_0345_MR1,OAS1_0345_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.831,1389.0,1.26
+OAS1_0345_MR1,OAS1_0345_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.831,1389.0,1.26
+OAS1_0389_MR1,OAS1_0389_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.782,1678.0,1.05
+OAS1_0389_MR1,OAS1_0389_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.782,1678.0,1.05
+OAS1_0389_MR1,OAS1_0389_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.782,1678.0,1.05
+OAS1_0140_MR1,OAS1_0140_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.872,1375.0,1.28
+OAS1_0140_MR1,OAS1_0140_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.872,1375.0,1.28
+OAS1_0140_MR1,OAS1_0140_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.872,1375.0,1.28
+OAS1_0078_MR1,OAS1_0078_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.809,1395.0,1.26
+OAS1_0078_MR1,OAS1_0078_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.809,1395.0,1.26
+OAS1_0078_MR1,OAS1_0078_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.809,1395.0,1.26
+OAS1_0083_MR1,OAS1_0083_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,27.0,0.727,1200.0,1.46
+OAS1_0083_MR1,OAS1_0083_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,27.0,0.727,1200.0,1.46
+OAS1_0083_MR1,OAS1_0083_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,27.0,0.727,1200.0,1.46
+OAS1_0097_MR1,OAS1_0097_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.816,1568.0,1.12
+OAS1_0097_MR1,OAS1_0097_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.816,1568.0,1.12
+OAS1_0097_MR1,OAS1_0097_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.816,1568.0,1.12
+OAS1_0080_MR1,OAS1_0080_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.857,1628.0,1.08
+OAS1_0080_MR1,OAS1_0080_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.857,1628.0,1.08
+OAS1_0080_MR1,OAS1_0080_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.857,1628.0,1.08
+OAS1_0358_MR1,OAS1_0358_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.839,1362.0,1.29
+OAS1_0358_MR1,OAS1_0358_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.839,1362.0,1.29
+OAS1_0358_MR1,OAS1_0358_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.839,1362.0,1.29
+OAS1_0260_MR1,OAS1_0260_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.719,1762.0,1.0
+OAS1_0260_MR1,OAS1_0260_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.719,1762.0,1.0
+OAS1_0260_MR1,OAS1_0260_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.719,1762.0,1.0
+OAS1_0348_MR1,OAS1_0348_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.841,1473.0,1.19
+OAS1_0348_MR1,OAS1_0348_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.841,1473.0,1.19
+OAS1_0348_MR1,OAS1_0348_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.841,1473.0,1.19
+OAS1_0151_MR1,OAS1_0151_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.856,1439.0,1.22
+OAS1_0151_MR1,OAS1_0151_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.856,1439.0,1.22
+OAS1_0151_MR1,OAS1_0151_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.856,1439.0,1.22
+OAS1_0047_MR1,OAS1_0047_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.784,1408.0,1.25
+OAS1_0047_MR1,OAS1_0047_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.784,1408.0,1.25
+OAS1_0047_MR1,OAS1_0047_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.784,1408.0,1.25
+OAS1_0340_MR1,OAS1_0340_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.853,1650.0,1.06
+OAS1_0340_MR1,OAS1_0340_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.853,1650.0,1.06
+OAS1_0340_MR1,OAS1_0340_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.853,1650.0,1.06
+OAS1_0303_MR1,OAS1_0303_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.831,1221.0,1.44
+OAS1_0303_MR1,OAS1_0303_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.831,1221.0,1.44
+OAS1_0303_MR1,OAS1_0303_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.831,1221.0,1.44
+OAS1_0076_MR1,OAS1_0076_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.839,1501.0,1.17
+OAS1_0076_MR1,OAS1_0076_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.839,1501.0,1.17
+OAS1_0076_MR1,OAS1_0076_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.839,1501.0,1.17
+OAS1_0370_MR1,OAS1_0370_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.847,1734.0,1.01
+OAS1_0370_MR1,OAS1_0370_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.847,1734.0,1.01
+OAS1_0370_MR1,OAS1_0370_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.847,1734.0,1.01
+OAS1_0319_MR1,OAS1_0319_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.821,1527.0,1.15
+OAS1_0319_MR1,OAS1_0319_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.821,1527.0,1.15
+OAS1_0319_MR1,OAS1_0319_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.821,1527.0,1.15
+OAS1_0378_MR1,OAS1_0378_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.821,1418.0,1.24
+OAS1_0378_MR1,OAS1_0378_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.821,1418.0,1.24
+OAS1_0378_MR1,OAS1_0378_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.821,1418.0,1.24
+OAS1_0213_MR1,OAS1_0213_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.801,1332.0,1.32
+OAS1_0213_MR1,OAS1_0213_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.801,1332.0,1.32
+OAS1_0213_MR1,OAS1_0213_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.801,1332.0,1.32
+OAS1_0126_MR1,OAS1_0126_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.885,1582.0,1.11
+OAS1_0126_MR1,OAS1_0126_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.885,1582.0,1.11
+OAS1_0126_MR1,OAS1_0126_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.885,1582.0,1.11
+OAS1_0019_MR1,OAS1_0019_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.715,1536.0,1.14
+OAS1_0019_MR1,OAS1_0019_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.715,1536.0,1.14
+OAS1_0019_MR1,OAS1_0019_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.715,1536.0,1.14
+OAS1_0446_MR1,OAS1_0446_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.748,1390.0,1.26
+OAS1_0446_MR1,OAS1_0446_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.748,1390.0,1.26
+OAS1_0446_MR1,OAS1_0446_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.748,1390.0,1.26
+OAS1_0119_MR1,OAS1_0119_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.838,1502.0,1.17
+OAS1_0119_MR1,OAS1_0119_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.838,1502.0,1.17
+OAS1_0119_MR1,OAS1_0119_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.838,1502.0,1.17
+OAS1_0250_MR1,OAS1_0250_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.837,1500.0,1.17
+OAS1_0250_MR1,OAS1_0250_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.837,1500.0,1.17
+OAS1_0250_MR1,OAS1_0250_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.837,1500.0,1.17
+OAS1_0450_MR1,OAS1_0450_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.88,1478.0,1.19
+OAS1_0450_MR1,OAS1_0450_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.88,1478.0,1.19
+OAS1_0450_MR1,OAS1_0450_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.88,1478.0,1.19
+OAS1_0061_MR1,OAS1_0061_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.84,1749.0,1.44
+OAS1_0061_MR1,OAS1_0061_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.84,1749.0,1.44
+OAS1_0061_MR1,OAS1_0061_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.84,1749.0,1.44
+OAS1_0035_MR1,OAS1_0035_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,28.0,0.695,1402.0,1.25
+OAS1_0035_MR1,OAS1_0035_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,28.0,0.695,1402.0,1.25
+OAS1_0035_MR1,OAS1_0035_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,28.0,0.695,1402.0,1.25
+OAS1_0200_MR1,OAS1_0200_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.807,1366.0,1.28
+OAS1_0200_MR1,OAS1_0200_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.807,1366.0,1.28
+OAS1_0200_MR1,OAS1_0200_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.807,1366.0,1.28
+OAS1_0130_MR1,OAS1_0130_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,26.0,0.789,1444.0,1.22
+OAS1_0130_MR1,OAS1_0130_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,26.0,0.789,1444.0,1.22
+OAS1_0130_MR1,OAS1_0130_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,26.0,0.789,1444.0,1.22
+OAS1_0103_MR1,OAS1_0103_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.85,1499.0,1.17
+OAS1_0103_MR1,OAS1_0103_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.85,1499.0,1.17
+OAS1_0103_MR1,OAS1_0103_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.85,1499.0,1.17
+OAS1_0321_MR1,OAS1_0321_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.843,1478.0,1.19
+OAS1_0321_MR1,OAS1_0321_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.843,1478.0,1.19
+OAS1_0321_MR1,OAS1_0321_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.843,1478.0,1.19
+OAS1_0085_MR1,OAS1_0085_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.791,1283.0,1.37
+OAS1_0085_MR1,OAS1_0085_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.791,1283.0,1.37
+OAS1_0085_MR1,OAS1_0085_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.791,1283.0,1.37
+OAS1_0275_MR1,OAS1_0275_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.802,1635.0,1.07
+OAS1_0275_MR1,OAS1_0275_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.802,1635.0,1.07
+OAS1_0275_MR1,OAS1_0275_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.802,1635.0,1.07
+OAS1_0286_MR1,OAS1_0286_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,20.0,0.751,1476.0,1.19
+OAS1_0286_MR1,OAS1_0286_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,20.0,0.751,1476.0,1.19
+OAS1_0286_MR1,OAS1_0286_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,20.0,0.751,1476.0,1.19
+OAS1_0405_MR1,OAS1_0405_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,23.0,0.761,1713.0,1.02
+OAS1_0405_MR1,OAS1_0405_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,23.0,0.761,1713.0,1.02
+OAS1_0405_MR1,OAS1_0405_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,23.0,0.761,1713.0,1.02
+OAS1_0056_MR1,OAS1_0056_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,15.0,0.668,1324.0,1.33
+OAS1_0056_MR1,OAS1_0056_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,15.0,0.668,1324.0,1.33
+OAS1_0056_MR1,OAS1_0056_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,15.0,0.668,1324.0,1.33
+OAS1_0121_MR1,OAS1_0121_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.82,1684.0,1.04
+OAS1_0121_MR1,OAS1_0121_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.82,1684.0,1.04
+OAS1_0121_MR1,OAS1_0121_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.82,1684.0,1.04
+OAS1_0136_MR1,OAS1_0136_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.873,1178.0,1.49
+OAS1_0136_MR1,OAS1_0136_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.873,1178.0,1.49
+OAS1_0136_MR1,OAS1_0136_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.873,1178.0,1.49
+OAS1_0028_MR1,OAS1_0028_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,27.0,0.738,1449.0,1.21
+OAS1_0028_MR1,OAS1_0028_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,27.0,0.738,1449.0,1.21
+OAS1_0028_MR1,OAS1_0028_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,27.0,0.738,1449.0,1.21
+OAS1_0120_MR1,OAS1_0120_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,26.0,0.736,1796.0,0.98
+OAS1_0120_MR1,OAS1_0120_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,26.0,0.736,1796.0,0.98
+OAS1_0120_MR1,OAS1_0120_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,26.0,0.736,1796.0,0.98
+OAS1_0363_MR1,OAS1_0363_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.702,1398.0,1.26
+OAS1_0363_MR1,OAS1_0363_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.702,1398.0,1.26
+OAS1_0363_MR1,OAS1_0363_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.702,1398.0,1.26
+OAS1_0272_MR1,OAS1_0272_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,26.0,0.745,1355.0,1.3
+OAS1_0272_MR1,OAS1_0272_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,26.0,0.745,1355.0,1.3
+OAS1_0272_MR1,OAS1_0272_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,26.0,0.745,1355.0,1.3
+OAS1_0394_MR1,OAS1_0394_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.847,1343.0,1.31
+OAS1_0394_MR1,OAS1_0394_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.847,1343.0,1.31
+OAS1_0394_MR1,OAS1_0394_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.847,1343.0,1.31
+OAS1_0264_MR1,OAS1_0264_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.849,1591.0,1.1
+OAS1_0264_MR1,OAS1_0264_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.849,1591.0,1.1
+OAS1_0264_MR1,OAS1_0264_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.849,1591.0,1.1
+OAS1_0011_MR1,OAS1_0011_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.827,1321.0,1.33
+OAS1_0011_MR1,OAS1_0011_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.827,1321.0,1.33
+OAS1_0011_MR1,OAS1_0011_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.827,1321.0,1.33
+OAS1_0164_MR1,OAS1_0164_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,28.0,0.687,1495.0,1.17
+OAS1_0164_MR1,OAS1_0164_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,28.0,0.687,1495.0,1.17
+OAS1_0164_MR1,OAS1_0164_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,28.0,0.687,1495.0,1.17
+OAS1_0258_MR1,OAS1_0258_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.87,1516.0,1.16
+OAS1_0258_MR1,OAS1_0258_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.87,1516.0,1.16
+OAS1_0258_MR1,OAS1_0258_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.87,1516.0,1.16
+OAS1_0088_MR1,OAS1_0088_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.865,1557.0,1.13
+OAS1_0088_MR1,OAS1_0088_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.865,1557.0,1.13
+OAS1_0088_MR1,OAS1_0088_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.865,1557.0,1.13
+OAS1_0239_MR1,OAS1_0239_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.823,1439.0,1.22
+OAS1_0239_MR1,OAS1_0239_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.823,1439.0,1.22
+OAS1_0239_MR1,OAS1_0239_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.823,1439.0,1.22
+OAS1_0432_MR1,OAS1_0432_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,26.0,0.773,1453.0,1.21
+OAS1_0432_MR1,OAS1_0432_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,26.0,0.773,1453.0,1.21
+OAS1_0432_MR1,OAS1_0432_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,26.0,0.773,1453.0,1.21
+OAS1_0138_MR1,OAS1_0138_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,28.0,0.706,1689.0,1.04
+OAS1_0138_MR1,OAS1_0138_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,28.0,0.706,1689.0,1.04
+OAS1_0138_MR1,OAS1_0138_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,28.0,0.706,1689.0,1.04
+OAS1_0139_MR1,OAS1_0139_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,28.0,0.779,1512.0,1.16
+OAS1_0139_MR1,OAS1_0139_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,28.0,0.779,1512.0,1.16
+OAS1_0139_MR1,OAS1_0139_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,28.0,0.779,1512.0,1.16
+OAS1_0223_MR1,OAS1_0223_MR1_mpr_n3_anon_sbj_111_s0.png,Demented,0,,20.0,0.703,1641.0,1.07
+OAS1_0223_MR1,OAS1_0223_MR1_mpr_n3_anon_sbj_111_s1.png,Demented,0,,20.0,0.703,1641.0,1.07
+OAS1_0223_MR1,OAS1_0223_MR1_mpr_n3_anon_sbj_111_s2.png,Demented,0,,20.0,0.703,1641.0,1.07
+OAS1_0323_MR1,OAS1_0323_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.826,1370.0,1.28
+OAS1_0323_MR1,OAS1_0323_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.826,1370.0,1.28
+OAS1_0323_MR1,OAS1_0323_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.826,1370.0,1.28
+OAS1_0365_MR1,OAS1_0365_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.754,1806.0,0.97
+OAS1_0365_MR1,OAS1_0365_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.754,1806.0,0.97
+OAS1_0365_MR1,OAS1_0365_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.754,1806.0,0.97
+OAS1_0081_MR1,OAS1_0081_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.857,1309.0,1.34
+OAS1_0081_MR1,OAS1_0081_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.857,1309.0,1.34
+OAS1_0081_MR1,OAS1_0081_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.857,1309.0,1.34
+OAS1_0111_MR2,OAS1_0111_MR2_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.861,1714.0,1.02
+OAS1_0111_MR2,OAS1_0111_MR2_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.861,1714.0,1.02
+OAS1_0111_MR2,OAS1_0111_MR2_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.861,1714.0,1.02
+OAS1_0311_MR1,OAS1_0311_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.83,1366.0,1.28
+OAS1_0311_MR1,OAS1_0311_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.83,1366.0,1.28
+OAS1_0311_MR1,OAS1_0311_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.83,1366.0,1.28
+OAS1_0343_MR1,OAS1_0343_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.811,1441.0,1.22
+OAS1_0343_MR1,OAS1_0343_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.811,1441.0,1.22
+OAS1_0343_MR1,OAS1_0343_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.811,1441.0,1.22
+OAS1_0409_MR1,OAS1_0409_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.798,1569.0,1.12
+OAS1_0409_MR1,OAS1_0409_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.798,1569.0,1.12
+OAS1_0409_MR1,OAS1_0409_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.798,1569.0,1.12
+OAS1_0318_MR1,OAS1_0318_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.836,1634.0,1.07
+OAS1_0318_MR1,OAS1_0318_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.836,1634.0,1.07
+OAS1_0318_MR1,OAS1_0318_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.836,1634.0,1.07
+OAS1_0373_MR1,OAS1_0373_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,20.0,0.692,1732.0,1.01
+OAS1_0373_MR1,OAS1_0373_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,20.0,0.692,1732.0,1.01
+OAS1_0373_MR1,OAS1_0373_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,20.0,0.692,1732.0,1.01
+OAS1_0155_MR1,OAS1_0155_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,28.0,0.753,1359.0,1.29
+OAS1_0155_MR1,OAS1_0155_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,28.0,0.753,1359.0,1.29
+OAS1_0155_MR1,OAS1_0155_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,28.0,0.753,1359.0,1.29
+OAS1_0423_MR1,OAS1_0423_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,28.0,0.749,1511.0,1.16
+OAS1_0423_MR1,OAS1_0423_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,28.0,0.749,1511.0,1.16
+OAS1_0423_MR1,OAS1_0423_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,28.0,0.749,1511.0,1.16
+OAS1_0312_MR1,OAS1_0312_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,26.0,0.756,1311.0,1.34
+OAS1_0312_MR1,OAS1_0312_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,26.0,0.756,1311.0,1.34
+OAS1_0312_MR1,OAS1_0312_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,26.0,0.756,1311.0,1.34
+OAS1_0131_MR1,OAS1_0131_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.824,1637.0,1.07
+OAS1_0131_MR1,OAS1_0131_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.824,1637.0,1.07
+OAS1_0131_MR1,OAS1_0131_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.824,1637.0,1.07
+OAS1_0274_MR1,OAS1_0274_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.815,1373.0,1.28
+OAS1_0274_MR1,OAS1_0274_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.815,1373.0,1.28
+OAS1_0274_MR1,OAS1_0274_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.815,1373.0,1.28
+OAS1_0452_MR1,OAS1_0452_MR1_mpr_n3_anon_sbj_111_s0.png,Demented,0,,22.0,0.762,1656.0,1.06
+OAS1_0452_MR1,OAS1_0452_MR1_mpr_n3_anon_sbj_111_s1.png,Demented,0,,22.0,0.762,1656.0,1.06
+OAS1_0452_MR1,OAS1_0452_MR1_mpr_n3_anon_sbj_111_s2.png,Demented,0,,22.0,0.762,1656.0,1.06
+OAS1_0397_MR1,OAS1_0397_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.846,1265.0,1.39
+OAS1_0397_MR1,OAS1_0397_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.846,1265.0,1.39
+OAS1_0397_MR1,OAS1_0397_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.846,1265.0,1.39
+OAS1_0060_MR1,OAS1_0060_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,29.0,0.734,1564.0,1.12
+OAS1_0060_MR1,OAS1_0060_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,29.0,0.734,1564.0,1.12
+OAS1_0060_MR1,OAS1_0060_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,29.0,0.734,1564.0,1.12
+OAS1_0331_MR1,OAS1_0331_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.821,1467.0,1.2
+OAS1_0331_MR1,OAS1_0331_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.821,1467.0,1.2
+OAS1_0331_MR1,OAS1_0331_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.821,1467.0,1.2
+OAS1_0338_MR1,OAS1_0338_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.736,1818.0,0.97
+OAS1_0338_MR1,OAS1_0338_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.736,1818.0,0.97
+OAS1_0338_MR1,OAS1_0338_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.736,1818.0,0.97
+OAS1_0410_MR1,OAS1_0410_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.87,1507.0,1.16
+OAS1_0410_MR1,OAS1_0410_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.87,1507.0,1.16
+OAS1_0410_MR1,OAS1_0410_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.87,1507.0,1.16
+OAS1_0058_MR1,OAS1_0058_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.817,1585.0,1.11
+OAS1_0058_MR1,OAS1_0058_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.817,1585.0,1.11
+OAS1_0058_MR1,OAS1_0058_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.817,1585.0,1.11
+OAS1_0070_MR1,OAS1_0070_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.801,1327.0,1.32
+OAS1_0070_MR1,OAS1_0070_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.801,1327.0,1.32
+OAS1_0070_MR1,OAS1_0070_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.801,1327.0,1.32
+OAS1_0129_MR1,OAS1_0129_MR1_mpr_n4_anon_111_t88_masked_gfc_s0.png,Non-Demented,0,,,0.846,1514.0,1.16
+OAS1_0129_MR1,OAS1_0129_MR1_mpr_n4_anon_111_t88_masked_gfc_s1.png,Non-Demented,0,,,0.846,1514.0,1.16
+OAS1_0129_MR1,OAS1_0129_MR1_mpr_n4_anon_111_t88_masked_gfc_s2.png,Non-Demented,0,,,0.846,1514.0,1.16
+OAS1_0091_MR1,OAS1_0091_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.834,1701.0,1.03
+OAS1_0091_MR1,OAS1_0091_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.834,1701.0,1.03
+OAS1_0091_MR1,OAS1_0091_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.834,1701.0,1.03
+OAS1_0398_MR1,OAS1_0398_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.716,1769.0,0.99
+OAS1_0398_MR1,OAS1_0398_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.716,1769.0,0.99
+OAS1_0398_MR1,OAS1_0398_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.716,1769.0,0.99
+OAS1_0259_MR1,OAS1_0259_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.773,1334.0,1.32
+OAS1_0259_MR1,OAS1_0259_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.773,1334.0,1.32
+OAS1_0259_MR1,OAS1_0259_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.773,1334.0,1.32
+OAS1_0361_MR1,OAS1_0361_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.842,1485.0,1.18
+OAS1_0361_MR1,OAS1_0361_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.842,1485.0,1.18
+OAS1_0361_MR1,OAS1_0361_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.842,1485.0,1.18
+OAS1_0330_MR1,OAS1_0330_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,27.0,0.752,1381.0,1.27
+OAS1_0330_MR1,OAS1_0330_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,27.0,0.752,1381.0,1.27
+OAS1_0330_MR1,OAS1_0330_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,27.0,0.752,1381.0,1.27
+OAS1_0292_MR1,OAS1_0292_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.766,1415.0,1.24
+OAS1_0292_MR1,OAS1_0292_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.766,1415.0,1.24
+OAS1_0292_MR1,OAS1_0292_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.766,1415.0,1.24
+OAS1_0208_MR1,OAS1_0208_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.823,1368.0,1.28
+OAS1_0208_MR1,OAS1_0208_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.823,1368.0,1.28
+OAS1_0208_MR1,OAS1_0208_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.823,1368.0,1.28
+OAS1_0153_MR1,OAS1_0153_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.85,1662.0,1.06
+OAS1_0153_MR1,OAS1_0153_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.85,1662.0,1.06
+OAS1_0153_MR1,OAS1_0153_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.85,1662.0,1.06
+OAS1_0295_MR1,OAS1_0295_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.803,1412.0,1.24
+OAS1_0295_MR1,OAS1_0295_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.803,1412.0,1.24
+OAS1_0295_MR1,OAS1_0295_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.803,1412.0,1.24
+OAS1_0354_MR1,OAS1_0354_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,26.0,0.776,1367.0,1.28
+OAS1_0354_MR1,OAS1_0354_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,26.0,0.776,1367.0,1.28
+OAS1_0354_MR1,OAS1_0354_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,26.0,0.776,1367.0,1.28
+OAS1_0180_MR1,OAS1_0180_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.745,1496.0,1.17
+OAS1_0180_MR1,OAS1_0180_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.745,1496.0,1.17
+OAS1_0180_MR1,OAS1_0180_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.745,1496.0,1.17
+OAS1_0165_MR1,OAS1_0165_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.787,1395.0,1.26
+OAS1_0165_MR1,OAS1_0165_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.787,1395.0,1.26
+OAS1_0165_MR1,OAS1_0165_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.787,1395.0,1.26
+OAS1_0380_MR1,OAS1_0380_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,18.0,0.705,1313.0,1.34
+OAS1_0380_MR1,OAS1_0380_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,18.0,0.705,1313.0,1.34
+OAS1_0380_MR1,OAS1_0380_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,18.0,0.705,1313.0,1.34
+OAS1_0401_MR1,OAS1_0401_MR1_mpr_n5_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.827,1287.0,1.36
+OAS1_0401_MR1,OAS1_0401_MR1_mpr_n5_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.827,1287.0,1.36
+OAS1_0401_MR1,OAS1_0401_MR1_mpr_n5_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.827,1287.0,1.36
+OAS1_0069_MR1,OAS1_0069_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.784,1709.0,1.03
+OAS1_0069_MR1,OAS1_0069_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.784,1709.0,1.03
+OAS1_0069_MR1,OAS1_0069_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.784,1709.0,1.03
+OAS1_0366_MR1,OAS1_0366_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.813,1549.0,1.13
+OAS1_0366_MR1,OAS1_0366_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.813,1549.0,1.13
+OAS1_0366_MR1,OAS1_0366_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.813,1549.0,1.13
+OAS1_0186_MR1,OAS1_0186_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.731,1707.0,1.03
+OAS1_0186_MR1,OAS1_0186_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.731,1707.0,1.03
+OAS1_0186_MR1,OAS1_0186_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.731,1707.0,1.03
+OAS1_0152_MR1,OAS1_0152_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.83,1471.0,1.19
+OAS1_0152_MR1,OAS1_0152_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.83,1471.0,1.19
+OAS1_0152_MR1,OAS1_0152_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.83,1471.0,1.19
+OAS1_0280_MR1,OAS1_0280_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.67,1440.0,1.22
+OAS1_0280_MR1,OAS1_0280_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.67,1440.0,1.22
+OAS1_0280_MR1,OAS1_0280_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.67,1440.0,1.22
+OAS1_0403_MR1,OAS1_0403_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.833,1592.0,1.1
+OAS1_0403_MR1,OAS1_0403_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.833,1592.0,1.1
+OAS1_0403_MR1,OAS1_0403_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.833,1592.0,1.1
+OAS1_0125_MR1,OAS1_0125_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.832,1537.0,1.14
+OAS1_0125_MR1,OAS1_0125_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.832,1537.0,1.14
+OAS1_0125_MR1,OAS1_0125_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.832,1537.0,1.14
+OAS1_0278_MR1,OAS1_0278_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,26.0,0.684,1465.0,1.2
+OAS1_0278_MR1,OAS1_0278_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,26.0,0.684,1465.0,1.2
+OAS1_0278_MR1,OAS1_0278_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,26.0,0.684,1465.0,1.2
+OAS1_0262_MR1,OAS1_0262_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.784,1604.0,1.09
+OAS1_0262_MR1,OAS1_0262_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.784,1604.0,1.09
+OAS1_0262_MR1,OAS1_0262_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.784,1604.0,1.09
+OAS1_0220_MR1,OAS1_0220_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.742,1317.0,1.33
+OAS1_0220_MR1,OAS1_0220_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.742,1317.0,1.33
+OAS1_0220_MR1,OAS1_0220_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.742,1317.0,1.33
+OAS1_0425_MR1,OAS1_0425_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,23.0,0.715,1461.0,1.2
+OAS1_0425_MR1,OAS1_0425_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,23.0,0.715,1461.0,1.2
+OAS1_0425_MR1,OAS1_0425_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,23.0,0.715,1461.0,1.2
+OAS1_0166_MR1,OAS1_0166_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,27.0,0.771,1475.0,1.19
+OAS1_0166_MR1,OAS1_0166_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,27.0,0.771,1475.0,1.19
+OAS1_0166_MR1,OAS1_0166_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,27.0,0.771,1475.0,1.19
+OAS1_0066_MR1,OAS1_0066_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,28.0,0.765,1309.0,1.34
+OAS1_0066_MR1,OAS1_0066_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,28.0,0.765,1309.0,1.34
+OAS1_0066_MR1,OAS1_0066_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,28.0,0.765,1309.0,1.34
+OAS1_0099_MR1,OAS1_0099_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.878,1484.0,1.18
+OAS1_0099_MR1,OAS1_0099_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.878,1484.0,1.18
+OAS1_0099_MR1,OAS1_0099_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.878,1484.0,1.18
+OAS1_0443_MR1,OAS1_0443_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.814,1431.0,1.23
+OAS1_0443_MR1,OAS1_0443_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.814,1431.0,1.23
+OAS1_0443_MR1,OAS1_0443_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.814,1431.0,1.23
+OAS1_0433_MR1,OAS1_0433_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,27.0,0.779,1606.0,1.09
+OAS1_0433_MR1,OAS1_0433_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,27.0,0.779,1606.0,1.09
+OAS1_0433_MR1,OAS1_0433_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,27.0,0.779,1606.0,1.09
+OAS1_0290_MR1,OAS1_0290_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,26.0,0.706,1992.0,0.88
+OAS1_0290_MR1,OAS1_0290_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,26.0,0.706,1992.0,0.88
+OAS1_0290_MR1,OAS1_0290_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,26.0,0.706,1992.0,0.88
+OAS1_0421_MR1,OAS1_0421_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.847,1655.0,1.06
+OAS1_0421_MR1,OAS1_0421_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.847,1655.0,1.06
+OAS1_0421_MR1,OAS1_0421_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.847,1655.0,1.06
+OAS1_0395_MR1,OAS1_0395_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.834,1295.0,1.36
+OAS1_0395_MR1,OAS1_0395_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.834,1295.0,1.36
+OAS1_0395_MR1,OAS1_0395_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.834,1295.0,1.36
+OAS1_0042_MR1,OAS1_0042_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,29.0,0.709,1854.0,0.95
+OAS1_0042_MR1,OAS1_0042_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,29.0,0.709,1854.0,0.95
+OAS1_0042_MR1,OAS1_0042_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,29.0,0.709,1854.0,0.95
+OAS1_0317_MR1,OAS1_0317_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,26.0,0.702,1501.0,1.17
+OAS1_0317_MR1,OAS1_0317_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,26.0,0.702,1501.0,1.17
+OAS1_0317_MR1,OAS1_0317_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,26.0,0.702,1501.0,1.17
+OAS1_0230_MR1,OAS1_0230_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.846,1584.0,1.11
+OAS1_0230_MR1,OAS1_0230_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.846,1584.0,1.11
+OAS1_0230_MR1,OAS1_0230_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.846,1584.0,1.11
+OAS1_0055_MR1,OAS1_0055_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.831,1432.0,1.23
+OAS1_0055_MR1,OAS1_0055_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.831,1432.0,1.23
+OAS1_0055_MR1,OAS1_0055_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.831,1432.0,1.23
+OAS1_0229_MR1,OAS1_0229_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.832,1327.0,1.32
+OAS1_0229_MR1,OAS1_0229_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.832,1327.0,1.32
+OAS1_0229_MR1,OAS1_0229_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.832,1327.0,1.32
+OAS1_0029_MR1,OAS1_0029_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.858,1653.0,1.06
+OAS1_0029_MR1,OAS1_0029_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.858,1653.0,1.06
+OAS1_0029_MR1,OAS1_0029_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.858,1653.0,1.06
+OAS1_0192_MR1,OAS1_0192_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.839,1294.0,1.36
+OAS1_0192_MR1,OAS1_0192_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.839,1294.0,1.36
+OAS1_0192_MR1,OAS1_0192_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.839,1294.0,1.36
+OAS1_0254_MR1,OAS1_0254_MR1_mpr_n6_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.705,1264.0,1.39
+OAS1_0254_MR1,OAS1_0254_MR1_mpr_n6_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.705,1264.0,1.39
+OAS1_0254_MR1,OAS1_0254_MR1_mpr_n6_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.705,1264.0,1.39
+OAS1_0434_MR1,OAS1_0434_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.819,1385.0,1.27
+OAS1_0434_MR1,OAS1_0434_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.819,1385.0,1.27
+OAS1_0434_MR1,OAS1_0434_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.819,1385.0,1.27
+OAS1_0339_MR1,OAS1_0339_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,24.0,0.694,1211.0,1.45
+OAS1_0339_MR1,OAS1_0339_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,24.0,0.694,1211.0,1.45
+OAS1_0339_MR1,OAS1_0339_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,24.0,0.694,1211.0,1.45
+OAS1_0374_MR1,OAS1_0374_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,29.0,0.76,1238.0,1.42
+OAS1_0374_MR1,OAS1_0374_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,29.0,0.76,1238.0,1.42
+OAS1_0374_MR1,OAS1_0374_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,29.0,0.76,1238.0,1.42
+OAS1_0010_MR1,OAS1_0010_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.689,1636.0,1.07
+OAS1_0010_MR1,OAS1_0010_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.689,1636.0,1.07
+OAS1_0010_MR1,OAS1_0010_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.689,1636.0,1.07
+OAS1_0206_MR1,OAS1_0206_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.747,1243.0,1.41
+OAS1_0206_MR1,OAS1_0206_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.747,1243.0,1.41
+OAS1_0206_MR1,OAS1_0206_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.747,1243.0,1.41
+OAS1_0061_MR2,OAS1_0061_MR2_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.845,1757.0,1.0
+OAS1_0061_MR2,OAS1_0061_MR2_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.845,1757.0,1.0
+OAS1_0061_MR2,OAS1_0061_MR2_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.845,1757.0,1.0
+OAS1_0447_MR1,OAS1_0447_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,24.0,0.739,1388.0,1.26
+OAS1_0447_MR1,OAS1_0447_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,24.0,0.739,1388.0,1.26
+OAS1_0447_MR1,OAS1_0447_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,24.0,0.739,1388.0,1.26
+OAS1_0059_MR1,OAS1_0059_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.827,1396.0,1.26
+OAS1_0059_MR1,OAS1_0059_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.827,1396.0,1.26
+OAS1_0059_MR1,OAS1_0059_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.827,1396.0,1.26
+OAS1_0052_MR1,OAS1_0052_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,23.0,0.697,1462.0,1.2
+OAS1_0052_MR1,OAS1_0052_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,23.0,0.697,1462.0,1.2
+OAS1_0052_MR1,OAS1_0052_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,23.0,0.697,1462.0,1.2
+OAS1_0287_MR1,OAS1_0287_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,21.0,0.694,1194.0,1.47
+OAS1_0287_MR1,OAS1_0287_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,21.0,0.694,1194.0,1.47
+OAS1_0287_MR1,OAS1_0287_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,21.0,0.694,1194.0,1.47
+OAS1_0040_MR1,OAS1_0040_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.824,1244.0,1.41
+OAS1_0040_MR1,OAS1_0040_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.824,1244.0,1.41
+OAS1_0040_MR1,OAS1_0040_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.824,1244.0,1.41
+OAS1_0356_MR1,OAS1_0356_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.74,1506.0,1.17
+OAS1_0356_MR1,OAS1_0356_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.74,1506.0,1.17
+OAS1_0356_MR1,OAS1_0356_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.74,1506.0,1.17
+OAS1_0038_MR1,OAS1_0038_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.839,1443.0,1.22
+OAS1_0038_MR1,OAS1_0038_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.839,1443.0,1.22
+OAS1_0038_MR1,OAS1_0038_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.839,1443.0,1.22
+OAS1_0185_MR1,OAS1_0185_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,17.0,0.739,1314.0,1.34
+OAS1_0185_MR1,OAS1_0185_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,17.0,0.739,1314.0,1.34
+OAS1_0185_MR1,OAS1_0185_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,17.0,0.739,1314.0,1.34
+OAS1_0282_MR1,OAS1_0282_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.819,1478.0,1.19
+OAS1_0282_MR1,OAS1_0282_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.819,1478.0,1.19
+OAS1_0282_MR1,OAS1_0282_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.819,1478.0,1.19
+OAS1_0400_MR1,OAS1_0400_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,25.0,0.644,1774.0,0.99
+OAS1_0400_MR1,OAS1_0400_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,25.0,0.644,1774.0,0.99
+OAS1_0400_MR1,OAS1_0400_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,25.0,0.644,1774.0,0.99
+OAS1_0116_MR1,OAS1_0116_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.784,1373.0,1.28
+OAS1_0116_MR1,OAS1_0116_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.784,1373.0,1.28
+OAS1_0116_MR1,OAS1_0116_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.784,1373.0,1.28
+OAS1_0195_MR1,OAS1_0195_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,28.0,0.766,1346.0,1.3
+OAS1_0195_MR1,OAS1_0195_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,28.0,0.766,1346.0,1.3
+OAS1_0195_MR1,OAS1_0195_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,28.0,0.766,1346.0,1.3
+OAS1_0108_MR1,OAS1_0108_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.854,1825.0,0.96
+OAS1_0108_MR1,OAS1_0108_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.854,1825.0,0.96
+OAS1_0108_MR1,OAS1_0108_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.854,1825.0,0.96
+OAS1_0132_MR1,OAS1_0132_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.85,1596.0,1.1
+OAS1_0132_MR1,OAS1_0132_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.85,1596.0,1.1
+OAS1_0132_MR1,OAS1_0132_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.85,1596.0,1.1
+OAS1_0430_MR1,OAS1_0430_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,17.0,0.687,1562.0,1.12
+OAS1_0430_MR1,OAS1_0430_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,17.0,0.687,1562.0,1.12
+OAS1_0430_MR1,OAS1_0430_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,17.0,0.687,1562.0,1.12
+OAS1_0037_MR1,OAS1_0037_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.842,1313.0,1.34
+OAS1_0037_MR1,OAS1_0037_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.842,1313.0,1.34
+OAS1_0037_MR1,OAS1_0037_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.842,1313.0,1.34
+OAS1_0006_MR1,OAS1_0006_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.862,1131.0,1.55
+OAS1_0006_MR1,OAS1_0006_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.862,1131.0,1.55
+OAS1_0006_MR1,OAS1_0006_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.862,1131.0,1.55
+OAS1_0411_MR1,OAS1_0411_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,29.0,0.742,1346.0,1.3
+OAS1_0411_MR1,OAS1_0411_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,29.0,0.742,1346.0,1.3
+OAS1_0411_MR1,OAS1_0411_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,29.0,0.742,1346.0,1.3
+OAS1_0169_MR1,OAS1_0169_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.718,1445.0,1.21
+OAS1_0169_MR1,OAS1_0169_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.718,1445.0,1.21
+OAS1_0169_MR1,OAS1_0169_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.718,1445.0,1.21
+OAS1_0031_MR1,OAS1_0031_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,26.0,0.674,1419.0,1.24
+OAS1_0031_MR1,OAS1_0031_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,26.0,0.674,1419.0,1.24
+OAS1_0031_MR1,OAS1_0031_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,26.0,0.674,1419.0,1.24
+OAS1_0313_MR1,OAS1_0313_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.838,1516.0,1.16
+OAS1_0313_MR1,OAS1_0313_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.838,1516.0,1.16
+OAS1_0313_MR1,OAS1_0313_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.838,1516.0,1.16
+OAS1_0189_MR1,OAS1_0189_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.853,1628.0,1.08
+OAS1_0189_MR1,OAS1_0189_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.853,1628.0,1.08
+OAS1_0189_MR1,OAS1_0189_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.853,1628.0,1.08
+OAS1_0027_MR1,OAS1_0027_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.834,1194.0,1.47
+OAS1_0027_MR1,OAS1_0027_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.834,1194.0,1.47
+OAS1_0027_MR1,OAS1_0027_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.834,1194.0,1.47
+OAS1_0415_MR1,OAS1_0415_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.859,1542.0,1.14
+OAS1_0415_MR1,OAS1_0415_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.859,1542.0,1.14
+OAS1_0415_MR1,OAS1_0415_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.859,1542.0,1.14
+OAS1_0265_MR1,OAS1_0265_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.813,1410.0,1.25
+OAS1_0265_MR1,OAS1_0265_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.813,1410.0,1.25
+OAS1_0265_MR1,OAS1_0265_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.813,1410.0,1.25
+OAS1_0054_MR1,OAS1_0054_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.848,1567.0,1.12
+OAS1_0054_MR1,OAS1_0054_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.848,1567.0,1.12
+OAS1_0054_MR1,OAS1_0054_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.848,1567.0,1.12
+OAS1_0174_MR1,OAS1_0174_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.865,1415.0,1.24
+OAS1_0174_MR1,OAS1_0174_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.865,1415.0,1.24
+OAS1_0174_MR1,OAS1_0174_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.865,1415.0,1.24
+OAS1_0235_MR1,OAS1_0235_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.842,1407.0,1.25
+OAS1_0235_MR1,OAS1_0235_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.842,1407.0,1.25
+OAS1_0235_MR1,OAS1_0235_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.842,1407.0,1.25
+OAS1_0034_MR1,OAS1_0034_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.831,1538.0,1.14
+OAS1_0034_MR1,OAS1_0034_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.831,1538.0,1.14
+OAS1_0034_MR1,OAS1_0034_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.831,1538.0,1.14
+OAS1_0163_MR1,OAS1_0163_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.859,1633.0,1.07
+OAS1_0163_MR1,OAS1_0163_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.859,1633.0,1.07
+OAS1_0163_MR1,OAS1_0163_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.859,1633.0,1.07
+OAS1_0445_MR1,OAS1_0445_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.673,1362.0,1.29
+OAS1_0445_MR1,OAS1_0445_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.673,1362.0,1.29
+OAS1_0445_MR1,OAS1_0445_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.673,1362.0,1.29
+OAS1_0150_MR2,OAS1_0150_MR2_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.876,1506.0,1.16
+OAS1_0150_MR2,OAS1_0150_MR2_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.876,1506.0,1.16
+OAS1_0150_MR2,OAS1_0150_MR2_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.876,1506.0,1.16
+OAS1_0352_MR1,OAS1_0352_MR1_mpr_n3_anon_sbj_111_s0.png,Very Mild,0,,26.0,0.743,1174.0,1.5
+OAS1_0352_MR1,OAS1_0352_MR1_mpr_n3_anon_sbj_111_s1.png,Very Mild,0,,26.0,0.743,1174.0,1.5
+OAS1_0352_MR1,OAS1_0352_MR1_mpr_n3_anon_sbj_111_s2.png,Very Mild,0,,26.0,0.743,1174.0,1.5
+OAS1_0122_MR1,OAS1_0122_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,22.0,0.715,1377.0,1.27
+OAS1_0122_MR1,OAS1_0122_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,22.0,0.715,1377.0,1.27
+OAS1_0122_MR1,OAS1_0122_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,22.0,0.715,1377.0,1.27
+OAS1_0150_MR1,OAS1_0150_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.875,1510.0,1.16
+OAS1_0150_MR1,OAS1_0150_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.875,1510.0,1.16
+OAS1_0150_MR1,OAS1_0150_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.875,1510.0,1.16
+OAS1_0300_MR1,OAS1_0300_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,30.0,0.723,1556.0,1.13
+OAS1_0300_MR1,OAS1_0300_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,30.0,0.723,1556.0,1.13
+OAS1_0300_MR1,OAS1_0300_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,30.0,0.723,1556.0,1.13
+OAS1_0017_MR1,OAS1_0017_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.845,1689.0,1.04
+OAS1_0017_MR1,OAS1_0017_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.845,1689.0,1.04
+OAS1_0017_MR1,OAS1_0017_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.845,1689.0,1.04
+OAS1_0353_MR2,OAS1_0353_MR2_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.79,1684.0,1.04
+OAS1_0353_MR2,OAS1_0353_MR2_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.79,1684.0,1.04
+OAS1_0353_MR2,OAS1_0353_MR2_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.79,1684.0,1.04
+OAS1_0057_MR1,OAS1_0057_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.862,1333.0,1.32
+OAS1_0057_MR1,OAS1_0057_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.862,1333.0,1.32
+OAS1_0057_MR1,OAS1_0057_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.862,1333.0,1.32
+OAS1_0210_MR1,OAS1_0210_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,28.0,0.722,1676.0,1.05
+OAS1_0210_MR1,OAS1_0210_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,28.0,0.722,1676.0,1.05
+OAS1_0210_MR1,OAS1_0210_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,28.0,0.722,1676.0,1.05
+OAS1_0045_MR1,OAS1_0045_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.829,1590.0,1.1
+OAS1_0045_MR1,OAS1_0045_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.829,1590.0,1.1
+OAS1_0045_MR1,OAS1_0045_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.829,1590.0,1.1
+OAS1_0325_MR1,OAS1_0325_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.869,1422.0,1.23
+OAS1_0325_MR1,OAS1_0325_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.869,1422.0,1.23
+OAS1_0325_MR1,OAS1_0325_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.869,1422.0,1.23
+OAS1_0092_MR1,OAS1_0092_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.834,1442.0,1.22
+OAS1_0092_MR1,OAS1_0092_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.834,1442.0,1.22
+OAS1_0092_MR1,OAS1_0092_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.834,1442.0,1.22
+OAS1_0246_MR1,OAS1_0246_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.841,1522.0,1.15
+OAS1_0246_MR1,OAS1_0246_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.841,1522.0,1.15
+OAS1_0246_MR1,OAS1_0246_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.841,1522.0,1.15
+OAS1_0188_MR1,OAS1_0188_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.79,1464.0,1.2
+OAS1_0188_MR1,OAS1_0188_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.79,1464.0,1.2
+OAS1_0188_MR1,OAS1_0188_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.79,1464.0,1.2
+OAS1_0211_MR1,OAS1_0211_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.849,1657.0,1.06
+OAS1_0211_MR1,OAS1_0211_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.849,1657.0,1.06
+OAS1_0211_MR1,OAS1_0211_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.849,1657.0,1.06
+OAS1_0232_MR1,OAS1_0232_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.857,1582.0,1.11
+OAS1_0232_MR1,OAS1_0232_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.857,1582.0,1.11
+OAS1_0232_MR1,OAS1_0232_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.857,1582.0,1.11
+OAS1_0021_MR1,OAS1_0021_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,23.0,0.765,1794.0,0.98
+OAS1_0021_MR1,OAS1_0021_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,23.0,0.765,1794.0,0.98
+OAS1_0021_MR1,OAS1_0021_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,23.0,0.765,1794.0,0.98
+OAS1_0407_MR1,OAS1_0407_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.807,1434.0,1.22
+OAS1_0407_MR1,OAS1_0407_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.807,1434.0,1.22
+OAS1_0407_MR1,OAS1_0407_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.807,1434.0,1.22
+OAS1_0308_MR1,OAS1_0308_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,15.0,0.703,1401.0,1.25
+OAS1_0308_MR1,OAS1_0308_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,15.0,0.703,1401.0,1.25
+OAS1_0308_MR1,OAS1_0308_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,15.0,0.703,1401.0,1.25
+OAS1_0087_MR1,OAS1_0087_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.845,1507.0,1.16
+OAS1_0087_MR1,OAS1_0087_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.845,1507.0,1.16
+OAS1_0087_MR1,OAS1_0087_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.845,1507.0,1.16
+OAS1_0438_MR1,OAS1_0438_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.787,1191.0,1.47
+OAS1_0438_MR1,OAS1_0438_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.787,1191.0,1.47
+OAS1_0438_MR1,OAS1_0438_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.787,1191.0,1.47
+OAS1_0178_MR1,OAS1_0178_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.853,1272.0,1.38
+OAS1_0178_MR1,OAS1_0178_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.853,1272.0,1.38
+OAS1_0178_MR1,OAS1_0178_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.853,1272.0,1.38
+OAS1_0367_MR1,OAS1_0367_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,28.0,0.841,1161.0,1.51
+OAS1_0367_MR1,OAS1_0367_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,28.0,0.841,1161.0,1.51
+OAS1_0367_MR1,OAS1_0367_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,28.0,0.841,1161.0,1.51
+OAS1_0013_MR1,OAS1_0013_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.679,1664.0,1.05
+OAS1_0013_MR1,OAS1_0013_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.679,1664.0,1.05
+OAS1_0013_MR1,OAS1_0013_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.679,1664.0,1.05
+OAS1_0110_MR1,OAS1_0110_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,28.0,0.697,1483.0,1.18
+OAS1_0110_MR1,OAS1_0110_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,28.0,0.697,1483.0,1.18
+OAS1_0110_MR1,OAS1_0110_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,28.0,0.697,1483.0,1.18
+OAS1_0064_MR1,OAS1_0064_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.767,1583.0,1.11
+OAS1_0064_MR1,OAS1_0064_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.767,1583.0,1.11
+OAS1_0064_MR1,OAS1_0064_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.767,1583.0,1.11
+OAS1_0135_MR1,OAS1_0135_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.801,1561.0,1.12
+OAS1_0135_MR1,OAS1_0135_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.801,1561.0,1.12
+OAS1_0135_MR1,OAS1_0135_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.801,1561.0,1.12
+OAS1_0044_MR1,OAS1_0044_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.829,1346.0,1.3
+OAS1_0044_MR1,OAS1_0044_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.829,1346.0,1.3
+OAS1_0044_MR1,OAS1_0044_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.829,1346.0,1.3
+OAS1_0346_MR1,OAS1_0346_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.843,1485.0,1.18
+OAS1_0346_MR1,OAS1_0346_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.843,1485.0,1.18
+OAS1_0346_MR1,OAS1_0346_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.843,1485.0,1.18
+OAS1_0112_MR1,OAS1_0112_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.733,1536.0,1.14
+OAS1_0112_MR1,OAS1_0112_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.733,1536.0,1.14
+OAS1_0112_MR1,OAS1_0112_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.733,1536.0,1.14
+OAS1_0062_MR1,OAS1_0062_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.754,1456.0,1.2
+OAS1_0062_MR1,OAS1_0062_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.754,1456.0,1.2
+OAS1_0062_MR1,OAS1_0062_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.754,1456.0,1.2
+OAS1_0001_MR1,OAS1_0001_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.743,1344.0,1.31
+OAS1_0001_MR1,OAS1_0001_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.743,1344.0,1.31
+OAS1_0001_MR1,OAS1_0001_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.743,1344.0,1.31
+OAS1_0288_MR1,OAS1_0288_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,20.0,0.727,1461.0,1.2
+OAS1_0288_MR1,OAS1_0288_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,20.0,0.727,1461.0,1.2
+OAS1_0288_MR1,OAS1_0288_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,20.0,0.727,1461.0,1.2
+OAS1_0144_MR1,OAS1_0144_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.865,1799.0,0.98
+OAS1_0144_MR1,OAS1_0144_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.865,1799.0,0.98
+OAS1_0144_MR1,OAS1_0144_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.865,1799.0,0.98
+OAS1_0133_MR1,OAS1_0133_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.814,1277.0,1.37
+OAS1_0133_MR1,OAS1_0133_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.814,1277.0,1.37
+OAS1_0133_MR1,OAS1_0133_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.814,1277.0,1.37
+OAS1_0316_MR1,OAS1_0316_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,22.0,0.69,1493.0,1.18
+OAS1_0316_MR1,OAS1_0316_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,22.0,0.69,1493.0,1.18
+OAS1_0316_MR1,OAS1_0316_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,22.0,0.69,1493.0,1.18
+OAS1_0384_MR1,OAS1_0384_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.844,1562.0,1.12
+OAS1_0384_MR1,OAS1_0384_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.844,1562.0,1.12
+OAS1_0384_MR1,OAS1_0384_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.844,1562.0,1.12
+OAS1_0277_MR1,OAS1_0277_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.841,1913.0,0.92
+OAS1_0277_MR1,OAS1_0277_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.841,1913.0,0.92
+OAS1_0277_MR1,OAS1_0277_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.841,1913.0,0.92
+OAS1_0289_MR1,OAS1_0289_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,28.0,0.767,1334.0,1.32
+OAS1_0289_MR1,OAS1_0289_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,28.0,0.767,1334.0,1.32
+OAS1_0289_MR1,OAS1_0289_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,28.0,0.767,1334.0,1.32
+OAS1_0247_MR1,OAS1_0247_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,21.0,0.689,1307.0,1.34
+OAS1_0247_MR1,OAS1_0247_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,21.0,0.689,1307.0,1.34
+OAS1_0247_MR1,OAS1_0247_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,21.0,0.689,1307.0,1.34
+OAS1_0049_MR1,OAS1_0049_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.887,1329.0,1.32
+OAS1_0049_MR1,OAS1_0049_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.887,1329.0,1.32
+OAS1_0049_MR1,OAS1_0049_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.887,1329.0,1.32
+OAS1_0170_MR1,OAS1_0170_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.725,1455.0,1.21
+OAS1_0170_MR1,OAS1_0170_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.725,1455.0,1.21
+OAS1_0170_MR1,OAS1_0170_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.725,1455.0,1.21
+OAS1_0298_MR1,OAS1_0298_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,24.0,0.738,1354.0,1.3
+OAS1_0298_MR1,OAS1_0298_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,24.0,0.738,1354.0,1.3
+OAS1_0298_MR1,OAS1_0298_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,24.0,0.738,1354.0,1.3
+OAS1_0420_MR1,OAS1_0420_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.848,1732.0,1.01
+OAS1_0420_MR1,OAS1_0420_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.848,1732.0,1.01
+OAS1_0420_MR1,OAS1_0420_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.848,1732.0,1.01
+OAS1_0332_MR1,OAS1_0332_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.762,1734.0,1.01
+OAS1_0332_MR1,OAS1_0332_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.762,1734.0,1.01
+OAS1_0332_MR1,OAS1_0332_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.762,1734.0,1.01
+OAS1_0293_MR1,OAS1_0293_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,26.0,0.783,1384.0,1.27
+OAS1_0293_MR1,OAS1_0293_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,26.0,0.783,1384.0,1.27
+OAS1_0293_MR1,OAS1_0293_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,26.0,0.783,1384.0,1.27
+OAS1_0448_MR1,OAS1_0448_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.858,1524.0,1.15
+OAS1_0448_MR1,OAS1_0448_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.858,1524.0,1.15
+OAS1_0448_MR1,OAS1_0448_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.858,1524.0,1.15
+OAS1_0204_MR1,OAS1_0204_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.797,1430.0,1.23
+OAS1_0204_MR1,OAS1_0204_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.797,1430.0,1.23
+OAS1_0204_MR1,OAS1_0204_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.797,1430.0,1.23
+OAS1_0387_MR1,OAS1_0387_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.851,1149.0,1.53
+OAS1_0387_MR1,OAS1_0387_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.851,1149.0,1.53
+OAS1_0387_MR1,OAS1_0387_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.851,1149.0,1.53
+OAS1_0050_MR1,OAS1_0050_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.841,1358.0,1.29
+OAS1_0050_MR1,OAS1_0050_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.841,1358.0,1.29
+OAS1_0050_MR1,OAS1_0050_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.841,1358.0,1.29
+OAS1_0271_MR1,OAS1_0271_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,27.0,0.74,1329.0,1.32
+OAS1_0271_MR1,OAS1_0271_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,27.0,0.74,1329.0,1.32
+OAS1_0271_MR1,OAS1_0271_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,27.0,0.74,1329.0,1.32
+OAS1_0143_MR1,OAS1_0143_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,30.0,0.784,1446.0,1.21
+OAS1_0143_MR1,OAS1_0143_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,30.0,0.784,1446.0,1.21
+OAS1_0143_MR1,OAS1_0143_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,30.0,0.784,1446.0,1.21
+OAS1_0283_MR1,OAS1_0283_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.836,1578.0,1.11
+OAS1_0283_MR1,OAS1_0283_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.836,1578.0,1.11
+OAS1_0283_MR1,OAS1_0283_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.836,1578.0,1.11
+OAS1_0351_MR1,OAS1_0351_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,15.0,0.665,1512.0,1.16
+OAS1_0351_MR1,OAS1_0351_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,15.0,0.665,1512.0,1.16
+OAS1_0351_MR1,OAS1_0351_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,15.0,0.665,1512.0,1.16
+OAS1_0025_MR1,OAS1_0025_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.893,1240.0,1.42
+OAS1_0025_MR1,OAS1_0025_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.893,1240.0,1.42
+OAS1_0025_MR1,OAS1_0025_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.893,1240.0,1.42
+OAS1_0228_MR1,OAS1_0228_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,28.0,0.759,1486.0,1.18
+OAS1_0228_MR1,OAS1_0228_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,28.0,0.759,1486.0,1.18
+OAS1_0228_MR1,OAS1_0228_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,28.0,0.759,1486.0,1.18
+OAS1_0067_MR1,OAS1_0067_MR1_mpr_n3_anon_sbj_111_s0.png,Demented,0,,27.0,0.73,1549.0,1.13
+OAS1_0067_MR1,OAS1_0067_MR1_mpr_n3_anon_sbj_111_s1.png,Demented,0,,27.0,0.73,1549.0,1.13
+OAS1_0067_MR1,OAS1_0067_MR1_mpr_n3_anon_sbj_111_s2.png,Demented,0,,27.0,0.73,1549.0,1.13
+OAS1_0382_MR1,OAS1_0382_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,15.0,0.763,1288.0,1.36
+OAS1_0382_MR1,OAS1_0382_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,15.0,0.763,1288.0,1.36
+OAS1_0382_MR1,OAS1_0382_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,15.0,0.763,1288.0,1.36
+OAS1_0451_MR1,OAS1_0451_MR1_mpr_n3_anon_sbj_111_s0.png,Very Mild,0,,27.0,0.728,1687.0,1.04
+OAS1_0451_MR1,OAS1_0451_MR1_mpr_n3_anon_sbj_111_s1.png,Very Mild,0,,27.0,0.728,1687.0,1.04
+OAS1_0451_MR1,OAS1_0451_MR1_mpr_n3_anon_sbj_111_s2.png,Very Mild,0,,27.0,0.728,1687.0,1.04
+OAS1_0179_MR1,OAS1_0179_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,21.0,0.653,1250.0,1.4
+OAS1_0179_MR1,OAS1_0179_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,21.0,0.653,1250.0,1.4
+OAS1_0179_MR1,OAS1_0179_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,21.0,0.653,1250.0,1.4
+OAS1_0395_MR2,OAS1_0395_MR2_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.834,1283.0,1.37
+OAS1_0395_MR2,OAS1_0395_MR2_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.834,1283.0,1.37
+OAS1_0395_MR2,OAS1_0395_MR2_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.834,1283.0,1.37
+OAS1_0453_MR1,OAS1_0453_MR1_mpr_n3_anon_sbj_111_s0.png,Very Mild,0,,29.0,0.748,1295.0,1.36
+OAS1_0453_MR1,OAS1_0453_MR1_mpr_n3_anon_sbj_111_s1.png,Very Mild,0,,29.0,0.748,1295.0,1.36
+OAS1_0453_MR1,OAS1_0453_MR1_mpr_n3_anon_sbj_111_s2.png,Very Mild,0,,29.0,0.748,1295.0,1.36
+OAS1_0267_MR1,OAS1_0267_MR1_mpr_n3_anon_sbj_111_s0.png,Very Mild,0,,28.0,0.679,1506.0,1.17
+OAS1_0267_MR1,OAS1_0267_MR1_mpr_n3_anon_sbj_111_s1.png,Very Mild,0,,28.0,0.679,1506.0,1.17
+OAS1_0267_MR1,OAS1_0267_MR1_mpr_n3_anon_sbj_111_s2.png,Very Mild,0,,28.0,0.679,1506.0,1.17
+OAS1_0221_MR1,OAS1_0221_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.696,1474.0,1.19
+OAS1_0221_MR1,OAS1_0221_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.696,1474.0,1.19
+OAS1_0221_MR1,OAS1_0221_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.696,1474.0,1.19
+OAS1_0161_MR1,OAS1_0161_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,27.0,0.727,1390.0,1.26
+OAS1_0161_MR1,OAS1_0161_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,27.0,0.727,1390.0,1.26
+OAS1_0161_MR1,OAS1_0161_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,27.0,0.727,1390.0,1.26
+OAS1_0182_MR1,OAS1_0182_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.816,1561.0,1.12
+OAS1_0182_MR1,OAS1_0182_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.816,1561.0,1.12
+OAS1_0182_MR1,OAS1_0182_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.816,1561.0,1.12
+OAS1_0413_MR1,OAS1_0413_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.866,1447.0,1.21
+OAS1_0413_MR1,OAS1_0413_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.866,1447.0,1.21
+OAS1_0413_MR1,OAS1_0413_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.866,1447.0,1.21
+OAS1_0231_MR1,OAS1_0231_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.852,1429.0,1.23
+OAS1_0231_MR1,OAS1_0231_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.852,1429.0,1.23
+OAS1_0231_MR1,OAS1_0231_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.852,1429.0,1.23
+OAS1_0392_MR1,OAS1_0392_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.848,1441.0,1.22
+OAS1_0392_MR1,OAS1_0392_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.848,1441.0,1.22
+OAS1_0392_MR1,OAS1_0392_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.848,1441.0,1.22
+OAS1_0243_MR1,OAS1_0243_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,22.0,0.742,1547.0,1.13
+OAS1_0243_MR1,OAS1_0243_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,22.0,0.742,1547.0,1.13
+OAS1_0243_MR1,OAS1_0243_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,22.0,0.742,1547.0,1.13
+OAS1_0176_MR1,OAS1_0176_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.712,1398.0,1.26
+OAS1_0176_MR1,OAS1_0176_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.712,1398.0,1.26
+OAS1_0176_MR1,OAS1_0176_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.712,1398.0,1.26
+OAS1_0073_MR1,OAS1_0073_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,21.0,0.655,1495.0,1.17
+OAS1_0073_MR1,OAS1_0073_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,21.0,0.655,1495.0,1.17
+OAS1_0073_MR1,OAS1_0073_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,21.0,0.655,1495.0,1.17
+OAS1_0336_MR1,OAS1_0336_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.852,1528.0,1.15
+OAS1_0336_MR1,OAS1_0336_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.852,1528.0,1.15
+OAS1_0336_MR1,OAS1_0336_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.852,1528.0,1.15
+OAS1_0455_MR1,OAS1_0455_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,28.0,0.825,1354.0,1.3
+OAS1_0455_MR1,OAS1_0455_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,28.0,0.825,1354.0,1.3
+OAS1_0455_MR1,OAS1_0455_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,28.0,0.825,1354.0,1.3
+OAS1_0406_MR1,OAS1_0406_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.855,1346.0,1.3
+OAS1_0406_MR1,OAS1_0406_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.855,1346.0,1.3
+OAS1_0406_MR1,OAS1_0406_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.855,1346.0,1.3
+OAS1_0249_MR2,OAS1_0249_MR2_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.865,1215.0,1.44
+OAS1_0249_MR2,OAS1_0249_MR2_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.865,1215.0,1.44
+OAS1_0249_MR2,OAS1_0249_MR2_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.865,1215.0,1.44
+OAS1_0439_MR1,OAS1_0439_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.844,1438.0,1.22
+OAS1_0439_MR1,OAS1_0439_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.844,1438.0,1.22
+OAS1_0439_MR1,OAS1_0439_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.844,1438.0,1.22
+OAS1_0102_MR1,OAS1_0102_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.85,1542.0,1.14
+OAS1_0102_MR1,OAS1_0102_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.85,1542.0,1.14
+OAS1_0102_MR1,OAS1_0102_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.85,1542.0,1.14
+OAS1_0004_MR1,OAS1_0004_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.803,1588.0,1.11
+OAS1_0004_MR1,OAS1_0004_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.803,1588.0,1.11
+OAS1_0004_MR1,OAS1_0004_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.803,1588.0,1.11
+OAS1_0337_MR1,OAS1_0337_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,28.0,0.676,1750.0,1.0
+OAS1_0337_MR1,OAS1_0337_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,28.0,0.676,1750.0,1.0
+OAS1_0337_MR1,OAS1_0337_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,28.0,0.676,1750.0,1.0
+OAS1_0261_MR1,OAS1_0261_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.845,1417.0,1.24
+OAS1_0261_MR1,OAS1_0261_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.845,1417.0,1.24
+OAS1_0261_MR1,OAS1_0261_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.845,1417.0,1.24
+OAS1_0284_MR1,OAS1_0284_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.746,1714.0,1.02
+OAS1_0284_MR1,OAS1_0284_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.746,1714.0,1.02
+OAS1_0284_MR1,OAS1_0284_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.746,1714.0,1.02
+OAS1_0145_MR2,OAS1_0145_MR2_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.832,1654.0,1.06
+OAS1_0145_MR2,OAS1_0145_MR2_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.832,1654.0,1.06
+OAS1_0145_MR2,OAS1_0145_MR2_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.832,1654.0,1.06
+OAS1_0022_MR1,OAS1_0022_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,23.0,0.757,1447.0,1.21
+OAS1_0022_MR1,OAS1_0022_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,23.0,0.757,1447.0,1.21
+OAS1_0022_MR1,OAS1_0022_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,23.0,0.757,1447.0,1.21
+OAS1_0197_MR1,OAS1_0197_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.747,1154.0,1.52
+OAS1_0197_MR1,OAS1_0197_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.747,1154.0,1.52
+OAS1_0197_MR1,OAS1_0197_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.747,1154.0,1.52
+OAS1_0141_MR1,OAS1_0141_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.846,1523.0,1.15
+OAS1_0141_MR1,OAS1_0141_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.846,1523.0,1.15
+OAS1_0141_MR1,OAS1_0141_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.846,1523.0,1.15
+OAS1_0296_MR1,OAS1_0296_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.869,1428.0,1.23
+OAS1_0296_MR1,OAS1_0296_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.869,1428.0,1.23
+OAS1_0296_MR1,OAS1_0296_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.869,1428.0,1.23
+OAS1_0418_MR1,OAS1_0418_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,28.0,0.747,1659.0,1.06
+OAS1_0418_MR1,OAS1_0418_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,28.0,0.747,1659.0,1.06
+OAS1_0418_MR1,OAS1_0418_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,28.0,0.747,1659.0,1.06
+OAS1_0429_MR1,OAS1_0429_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.808,1385.0,1.27
+OAS1_0429_MR1,OAS1_0429_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.808,1385.0,1.27
+OAS1_0429_MR1,OAS1_0429_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.808,1385.0,1.27
+OAS1_0372_MR1,OAS1_0372_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.817,1596.0,1.1
+OAS1_0372_MR1,OAS1_0372_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.817,1596.0,1.1
+OAS1_0372_MR1,OAS1_0372_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.817,1596.0,1.1
+OAS1_0156_MR2,OAS1_0156_MR2_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.832,1577.0,1.11
+OAS1_0156_MR2,OAS1_0156_MR2_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.832,1577.0,1.11
+OAS1_0156_MR2,OAS1_0156_MR2_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.832,1577.0,1.11
+OAS1_0023_MR1,OAS1_0023_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,27.0,0.71,1420.0,1.24
+OAS1_0023_MR1,OAS1_0023_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,27.0,0.71,1420.0,1.24
+OAS1_0023_MR1,OAS1_0023_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,27.0,0.71,1420.0,1.24
+OAS1_0159_MR1,OAS1_0159_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.821,1437.0,1.22
+OAS1_0159_MR1,OAS1_0159_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.821,1437.0,1.22
+OAS1_0159_MR1,OAS1_0159_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.821,1437.0,1.22
+OAS1_0111_MR1,OAS1_0111_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.855,1711.0,1.03
+OAS1_0111_MR1,OAS1_0111_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.855,1711.0,1.03
+OAS1_0111_MR1,OAS1_0111_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.855,1711.0,1.03
+OAS1_0101_MR1,OAS1_0101_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.84,1486.0,1.18
+OAS1_0101_MR1,OAS1_0101_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.84,1486.0,1.18
+OAS1_0101_MR1,OAS1_0101_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.84,1486.0,1.18
+OAS1_0454_MR1,OAS1_0454_MR1_mpr_n3_anon_sbj_111_s0.png,Very Mild,0,,23.0,0.73,1536.0,1.14
+OAS1_0454_MR1,OAS1_0454_MR1_mpr_n3_anon_sbj_111_s1.png,Very Mild,0,,23.0,0.73,1536.0,1.14
+OAS1_0454_MR1,OAS1_0454_MR1_mpr_n3_anon_sbj_111_s2.png,Very Mild,0,,23.0,0.73,1536.0,1.14
+OAS1_0157_MR1,OAS1_0157_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.756,1293.0,1.36
+OAS1_0157_MR1,OAS1_0157_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.756,1293.0,1.36
+OAS1_0157_MR1,OAS1_0157_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.756,1293.0,1.36
+OAS1_0026_MR1,OAS1_0026_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.82,1235.0,1.42
+OAS1_0026_MR1,OAS1_0026_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.82,1235.0,1.42
+OAS1_0026_MR1,OAS1_0026_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.82,1235.0,1.42
+OAS1_0020_MR1,OAS1_0020_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.785,1326.0,1.32
+OAS1_0020_MR1,OAS1_0020_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.785,1326.0,1.32
+OAS1_0020_MR1,OAS1_0020_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.785,1326.0,1.32
+OAS1_0096_MR1,OAS1_0096_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.809,1357.0,1.29
+OAS1_0096_MR1,OAS1_0096_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.809,1357.0,1.29
+OAS1_0096_MR1,OAS1_0096_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.809,1357.0,1.29
+OAS1_0355_MR1,OAS1_0355_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.79,1123.0,1.56
+OAS1_0355_MR1,OAS1_0355_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.79,1123.0,1.56
+OAS1_0355_MR1,OAS1_0355_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.79,1123.0,1.56
+OAS1_0416_MR1,OAS1_0416_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.852,1567.0,1.12
+OAS1_0416_MR1,OAS1_0416_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.852,1567.0,1.12
+OAS1_0416_MR1,OAS1_0416_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.852,1567.0,1.12
+OAS1_0142_MR1,OAS1_0142_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,27.0,0.695,1581.0,1.11
+OAS1_0142_MR1,OAS1_0142_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,27.0,0.695,1581.0,1.11
+OAS1_0142_MR1,OAS1_0142_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,27.0,0.695,1581.0,1.11
+OAS1_0302_MR1,OAS1_0302_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.831,1570.0,1.12
+OAS1_0302_MR1,OAS1_0302_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.831,1570.0,1.12
+OAS1_0302_MR1,OAS1_0302_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.831,1570.0,1.12
+OAS1_0399_MR1,OAS1_0399_MR1_mpr_n4_anon_sbj_111_s0.png,Demented,0,,29.0,0.706,1569.0,1.12
+OAS1_0399_MR1,OAS1_0399_MR1_mpr_n4_anon_sbj_111_s1.png,Demented,0,,29.0,0.706,1569.0,1.12
+OAS1_0399_MR1,OAS1_0399_MR1_mpr_n4_anon_sbj_111_s2.png,Demented,0,,29.0,0.706,1569.0,1.12
+OAS1_0191_MR2,OAS1_0191_MR2_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.837,1416.0,1.24
+OAS1_0191_MR2,OAS1_0191_MR2_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.837,1416.0,1.24
+OAS1_0191_MR2,OAS1_0191_MR2_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.837,1416.0,1.24
+OAS1_0046_MR1,OAS1_0046_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,22.0,0.787,1351.0,1.3
+OAS1_0046_MR1,OAS1_0046_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,22.0,0.787,1351.0,1.3
+OAS1_0046_MR1,OAS1_0046_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,22.0,0.787,1351.0,1.3
+OAS1_0005_MR1,OAS1_0005_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.848,1737.0,1.01
+OAS1_0005_MR1,OAS1_0005_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.848,1737.0,1.01
+OAS1_0005_MR1,OAS1_0005_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.848,1737.0,1.01
+OAS1_0279_MR1,OAS1_0279_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.721,1475.0,1.19
+OAS1_0279_MR1,OAS1_0279_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.721,1475.0,1.19
+OAS1_0279_MR1,OAS1_0279_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.721,1475.0,1.19
+OAS1_0082_MR1,OAS1_0082_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,28.0,0.776,1407.0,1.25
+OAS1_0082_MR1,OAS1_0082_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,28.0,0.776,1407.0,1.25
+OAS1_0082_MR1,OAS1_0082_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,28.0,0.776,1407.0,1.25
+OAS1_0181_MR1,OAS1_0181_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.82,1316.0,1.33
+OAS1_0181_MR1,OAS1_0181_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.82,1316.0,1.33
+OAS1_0181_MR1,OAS1_0181_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.82,1316.0,1.33
+OAS1_0369_MR1,OAS1_0369_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,28.0,0.772,1295.0,1.36
+OAS1_0369_MR1,OAS1_0369_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,28.0,0.772,1295.0,1.36
+OAS1_0369_MR1,OAS1_0369_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,28.0,0.772,1295.0,1.36
+OAS1_0371_MR1,OAS1_0371_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.783,1361.0,1.29
+OAS1_0371_MR1,OAS1_0371_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.783,1361.0,1.29
+OAS1_0371_MR1,OAS1_0371_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.783,1361.0,1.29
+OAS1_0198_MR1,OAS1_0198_MR1_mpr_n4_anon_111_t88_masked_gfc_s0.png,Non-Demented,0,,,0.852,1332.0,1.32
+OAS1_0198_MR1,OAS1_0198_MR1_mpr_n4_anon_111_t88_masked_gfc_s1.png,Non-Demented,0,,,0.852,1332.0,1.32
+OAS1_0198_MR1,OAS1_0198_MR1_mpr_n4_anon_111_t88_masked_gfc_s2.png,Non-Demented,0,,,0.852,1332.0,1.32
+OAS1_0233_MR1,OAS1_0233_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,20.0,0.701,1376.0,1.28
+OAS1_0233_MR1,OAS1_0233_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,20.0,0.701,1376.0,1.28
+OAS1_0233_MR1,OAS1_0233_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,20.0,0.701,1376.0,1.28
+OAS1_0077_MR1,OAS1_0077_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.852,1537.0,1.14
+OAS1_0077_MR1,OAS1_0077_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.852,1537.0,1.14
+OAS1_0077_MR1,OAS1_0077_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.852,1537.0,1.14
+OAS1_0012_MR1,OAS1_0012_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.842,1574.0,1.12
+OAS1_0012_MR1,OAS1_0012_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.842,1574.0,1.12
+OAS1_0012_MR1,OAS1_0012_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.842,1574.0,1.12
+OAS1_0314_MR1,OAS1_0314_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.84,1720.0,1.02
+OAS1_0314_MR1,OAS1_0314_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.84,1720.0,1.02
+OAS1_0314_MR1,OAS1_0314_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.84,1720.0,1.02
+OAS1_0404_MR1,OAS1_0404_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,29.0,0.776,1465.0,1.2
+OAS1_0404_MR1,OAS1_0404_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,29.0,0.776,1465.0,1.2
+OAS1_0404_MR1,OAS1_0404_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,29.0,0.776,1465.0,1.2
+OAS1_0007_MR1,OAS1_0007_MR1_mpr_n3_anon_sbj_111_s0.png,Non-Demented,0,,,0.83,1516.0,1.16
+OAS1_0007_MR1,OAS1_0007_MR1_mpr_n3_anon_sbj_111_s1.png,Non-Demented,0,,,0.83,1516.0,1.16
+OAS1_0007_MR1,OAS1_0007_MR1_mpr_n3_anon_sbj_111_s2.png,Non-Demented,0,,,0.83,1516.0,1.16
+OAS1_0266_MR1,OAS1_0266_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,30.0,0.834,1793.0,0.98
+OAS1_0266_MR1,OAS1_0266_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,30.0,0.834,1793.0,0.98
+OAS1_0266_MR1,OAS1_0266_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,30.0,0.834,1793.0,0.98
+OAS1_0003_MR1,OAS1_0003_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,27.0,0.708,1454.0,1.21
+OAS1_0003_MR1,OAS1_0003_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,27.0,0.708,1454.0,1.21
+OAS1_0003_MR1,OAS1_0003_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,27.0,0.708,1454.0,1.21
+OAS1_0193_MR1,OAS1_0193_MR1_mpr_n4_anon_sbj_111_s0.png,Non-Demented,0,,,0.831,1546.0,1.13
+OAS1_0193_MR1,OAS1_0193_MR1_mpr_n4_anon_sbj_111_s1.png,Non-Demented,0,,,0.831,1546.0,1.13
+OAS1_0193_MR1,OAS1_0193_MR1_mpr_n4_anon_sbj_111_s2.png,Non-Demented,0,,,0.831,1546.0,1.13
+OAS1_0329_MR1,OAS1_0329_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,29.0,0.76,1209.0,1.45
+OAS1_0329_MR1,OAS1_0329_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,29.0,0.76,1209.0,1.45
+OAS1_0329_MR1,OAS1_0329_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,29.0,0.76,1209.0,1.45
+OAS1_0226_MR1,OAS1_0226_MR1_mpr_n4_anon_sbj_111_s0.png,Very Mild,0,,23.0,0.644,1668.0,1.05
+OAS1_0226_MR1,OAS1_0226_MR1_mpr_n4_anon_sbj_111_s1.png,Very Mild,0,,23.0,0.644,1668.0,1.05
+OAS1_0226_MR1,OAS1_0226_MR1_mpr_n4_anon_sbj_111_s2.png,Very Mild,0,,23.0,0.644,1668.0,1.05
