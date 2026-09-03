@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datos locales: raw e imágenes procesadas no se versionan.
+/data/*
+!/data/processed/
+/data/processed/*/
+!/data/processed/*_demographics.csv
