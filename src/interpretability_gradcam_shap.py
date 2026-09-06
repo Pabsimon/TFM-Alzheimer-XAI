@@ -10,7 +10,6 @@ from tensorflow import keras
 from pathlib import Path
 from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
-import matplotlib.cm as cm
 import matplotlib
 matplotlib.use('Agg')
 import logging
@@ -34,6 +33,10 @@ def load_test_images_with_labels(num_samples=10):
     """Carga algunas imágenes de test junto con sus etiquetas."""
     test_csv = DATA_DIR / 'test_demographics.csv'
     df = pd.read_csv(test_csv)
+    train_df = pd.read_csv(DATA_DIR / 'train_demographics.csv')
+    demo_features = ['gender', 'age', 'mmse', 'nwbv', 'etiv', 'asf']
+    scaler = StandardScaler()
+    scaler.fit(train_df[demo_features].fillna(0).astype(float))
     
     df = df.drop_duplicates(subset=['subject_id'], keep='first').reset_index(drop=True)
     
@@ -57,11 +60,9 @@ def load_test_images_with_labels(num_samples=10):
             img_array = keras.preprocessing.image.img_to_array(img) / 255.0
             images.append(img_array)
             
-            demo_features = ['gender', 'age', 'mmse', 'nwbv', 'etiv', 'asf']
             demo_vals = row[demo_features].values.astype(float)
             demo_vals = np.nan_to_num(demo_vals, nan=0.0)
-            scaler = StandardScaler()
-            demo_vals = scaler.fit_transform([demo_vals])[0]
+            demo_vals = scaler.transform([demo_vals])[0]
             demos.append(demo_vals)
             
             labels.append(row['label'])
@@ -72,16 +73,49 @@ def load_test_images_with_labels(num_samples=10):
     return np.array(images), np.array(demos), labels, subjects
 
 
-def create_grad_cam_heatmap(model, img_array, class_idx, last_conv_layer_name='conv5_block3_out'):
+def create_grad_cam_heatmap(model, img_array, demo_array, class_idx):
     """Genera un mapa de calor Grad-CAM."""
-    last_conv_layer = model.get_layer(last_conv_layer_name)
-    last_conv_layer_model = keras.Model(
-        inputs=model.inputs,
-        outputs=[last_conv_layer.output, model.output]
+    base_model = next(
+        (layer for layer in model.layers if isinstance(layer, keras.Model)),
+        None
     )
+    if base_model is None:
+        raise ValueError("No se encontró la rama ResNet50 dentro del modelo")
+
+    conv_layers = [
+        layer for layer in base_model.layers
+        if isinstance(layer, keras.layers.Conv2D)
+    ]
+    if not conv_layers:
+        raise ValueError("No se encontró una capa convolucional en ResNet50")
+
+    last_conv_layer = conv_layers[-1]
+    activation_model = keras.Model(
+        inputs=base_model.input,
+        outputs=[last_conv_layer.output, base_model.output]
+    )
+
+    def get_layer(name):
+        return model.get_layer(name)
     
     with tf.GradientTape() as tape:
-        last_conv_output, preds = last_conv_layer_model([img_array])
+        image_rgb = tf.concat([img_array, img_array, img_array], axis=-1)
+        last_conv_output, base_output = activation_model(image_rgb)
+
+        image_features = get_layer('global_average_pooling2d')(base_output)
+        image_features = get_layer('img_dense_1')(image_features)
+        image_features = get_layer('dropout')(image_features, training=False)
+        image_features = get_layer('img_dense_2')(image_features)
+
+        demo_features = get_layer('demo_dense_1')(demo_array)
+        demo_features = get_layer('dropout_1')(demo_features, training=False)
+        demo_features = get_layer('demo_dense_2')(demo_features)
+
+        merged = get_layer('concatenate_1')([image_features, demo_features])
+        merged = get_layer('merged_dense_1')(merged)
+        merged = get_layer('dropout_2')(merged, training=False)
+        merged = get_layer('merged_dense_2')(merged)
+        preds = get_layer('classification')(merged)
         class_channel = preds[:, class_idx]
     
     grads = tape.gradient(class_channel, last_conv_output)
@@ -132,35 +166,6 @@ def overlay_gradcam_on_image(img_array, heatmap, subject_id, label, pred_class, 
     # Save
     save_path = VIZ_DIR / f'gradcam_{subject_id}.png'
     plt.savefig(save_path, dpi=150, bbox_inches='tight')
-    plt.close()
-    
-    return save_path
-
-
-def plot_feature_importance_demographics():
-    """Representa la importancia estimada de las variables demográficas."""
-    features = ['Gender', 'Age', 'MMSE', 'nWBV', 'eTIV', 'ASF']
-    
-    # Valores orientativos usados para mostrar la comparación entre variables.
-    importance = np.array([0.08, 0.25, 0.30, 0.20, 0.12, 0.05])
-    
-    fig, ax = plt.subplots(figsize=(10, 6))
-    colors = plt.cm.viridis(np.linspace(0.3, 0.9, len(features)))
-    
-    bars = ax.barh(features, importance * 100, color=colors)
-    ax.set_xlabel('Relative Importance (%)', fontsize=12, fontweight='bold')
-    ax.set_title('Demographic Features Importance for Alzheimer\'s Detection', 
-                 fontsize=13, fontweight='bold')
-    ax.set_xlim(0, 40)
-    
-    for i, bar in enumerate(bars):
-        width = bar.get_width()
-        ax.text(width + 1, bar.get_y() + bar.get_height()/2,
-                f'{width:.1f}%', ha='left', va='center', fontsize=10)
-    
-    plt.tight_layout()
-    save_path = VIZ_DIR / 'feature_importance_demographics.png'
-    plt.savefig(save_path, dpi=300, bbox_inches='tight')
     plt.close()
     
     return save_path
@@ -229,13 +234,7 @@ def main():
     
     logger.info("Cargando modelo multimodal")
     try:
-        model = keras.models.load_model(
-            MODEL_PATH,
-            custom_objects={},
-            compile=False
-        )
-        keras.config.enable_unsafe_deserialization()
-        model = keras.models.load_model(MODEL_PATH)
+        model = keras.models.load_model(MODEL_PATH, compile=False)
     except Exception as e:
         logger.error(f"No se pudo cargar el modelo: {e}")
         logger.info("Modelo no encontrado; se generarán visualizaciones limitadas")
@@ -244,10 +243,6 @@ def main():
     logger.info("Generando diagrama de arquitectura")
     arch_path = plot_model_architecture_diagram()
     logger.info(f"Guardado en: {arch_path}")
-    
-    logger.info("Generando gráfico de importancia")
-    feat_path = plot_feature_importance_demographics()
-    logger.info(f"Guardado en: {feat_path}")
     
     if model is not None:
         logger.info("Cargando muestras de test para Grad-CAM")
@@ -266,7 +261,7 @@ def main():
             confidence = np.max(pred_probs)
             
             pred_idx = np.argmax(pred_probs)
-            heatmap = create_grad_cam_heatmap(model, img, pred_idx)
+            heatmap = create_grad_cam_heatmap(model, img, demo, pred_idx)
             
             viz_path = overlay_gradcam_on_image(img[0], heatmap, subject, label, pred_class, confidence)
             logger.info(f"  {subject}: real={label}, predicción={pred_class} ({confidence:.1%}) - guardado en {viz_path}")
