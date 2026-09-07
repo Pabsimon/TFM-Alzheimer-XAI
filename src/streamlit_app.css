@@ -1,0 +1,98 @@
+:root {
+    --app-bg: #ffffff;
+    --panel-bg: #f5f5f5;
+    --surface-bg: #ffffff;
+    --text-main: #111111;
+    --text-soft: #555555;
+    --border-soft: #d9d9d9;
+}
+
+.stApp {
+    background: var(--app-bg);
+    color: var(--text-main);
+}
+
+[data-testid="stSidebar"] {
+    background: var(--panel-bg);
+}
+
+[data-testid="stSidebar"] * {
+    color: var(--text-main) !important;
+}
+
+.block-container {
+    max-width: 1100px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+h1, h2, h3, p, label, div, span {
+    color: var(--text-main);
+}
+
+[data-baseweb="select"] > div,
+[data-baseweb="base-input"] > div,
+[data-testid="stNumberInput"] input,
+[data-testid="stFileUploader"] section,
+[data-testid="stExpander"] details {
+    background: var(--surface-bg) !important;
+    color: var(--text-main) !important;
+    border-color: var(--border-soft) !important;
+    box-shadow: none !important;
+}
+
+[data-testid="stExpander"] details {
+    border: 1px solid var(--border-soft) !important;
+    border-radius: 0.5rem !important;
+    overflow: hidden;
+}
+
+[data-testid="stExpander"] summary {
+    background: #f7f8fa !important;
+    color: var(--text-main) !important;
+}
+
+[data-testid="stFileUploader"] button {
+    background: #ffffff !important;
+    color: #111111 !important;
+    border: 1px solid var(--border-soft) !important;
+}
+
+[data-testid="stFileUploader"] button:hover {
+    background: #f7f8fa !important;
+}
+
+[data-testid="stMetric"] {
+    background: var(--surface-bg);
+    border: 1px solid #e6e6e6;
+    border-radius: 0.5rem;
+    padding: 0.75rem;
+}
+
+.simple-card {
+    min-height: 130px;
+    padding: 1rem;
+    background: var(--surface-bg);
+    border: 1px solid #e6e6e6;
+    border-radius: 0.5rem;
+}
+
+.simple-card-label {
+    margin-bottom: 0.75rem;
+    color: var(--text-soft);
+    font-size: 0.95rem;
+}
+
+.simple-card-value {
+    color: var(--text-main);
+    font-size: 1.1rem;
+    font-weight: 600;
+    line-height: 1.4;
+    word-break: break-word;
+}
+
+.simple-card-note {
+    margin-top: 0.75rem;
+    color: #666666;
+    font-size: 0.9rem;
+}
